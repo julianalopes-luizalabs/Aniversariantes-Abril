@@ -1,5 +1,5 @@
 ------------------------------------Ju
-
+-----adhauhduahduahduahd
 --Extração CPF
 DECLARE @QUERY VARCHAR(MAX)			= 'SELECT CPF
 									   FROM JOBS..ANIVERSARIANTES_MAR2018
