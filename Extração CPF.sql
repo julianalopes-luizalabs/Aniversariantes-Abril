@@ -1,4 +1,4 @@
-
+------------------------------------Ju
 
 --Extração CPF
 DECLARE @QUERY VARCHAR(MAX)			= 'SELECT CPF
